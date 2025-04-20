@@ -7,11 +7,7 @@
   
 </p>
 
-<h4 align="center">
-  <a href="https://github.com/WillKirkmanM/music/releases">Releases</a>
-</h4>
-
-<p align="center">Minecraft Server Protocol with Hands8haking, Configuration, Login, Play, Status & Encoding with Client Connections</p>
+<p align="center">Minecraft Server Protocol with Handshaking, Configuration, Login, Play, Status & Encoding with Client Connections</p>
 
 ## Overview
 
